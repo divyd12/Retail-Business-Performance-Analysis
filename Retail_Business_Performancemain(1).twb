@@ -1589,8 +1589,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='30' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='29' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='28' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='27' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='134' h='47333' id='3' is-fixed='true' name='Sales and Profit by Category' w='29500' x='2000' y='2667'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1790,8 +1790,8 @@
           </layout-options>
           <size maxheight='2200' minheight='2200' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='44' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='43' param='vert' type-v2='layout-flow' w='98666' x='667' y='889'>
+            <zone h='100000' id='42' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98222' id='41' param='vert' type-v2='layout-flow' w='98666' x='667' y='889'>
                 <zone h='7889' id='24' type-v2='title' w='98666' x='667' y='889'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
